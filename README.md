@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou wallace-zn
 
-💻 **Desenvolvedor / Estudante / [Tecnologia da informação]**  
+💻 **Desenvolvedor TI/ Estudante / **  
 🎯 Foco em: 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
